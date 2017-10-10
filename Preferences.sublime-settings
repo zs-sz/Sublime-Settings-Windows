@@ -1,0 +1,61 @@
+{
+	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		".eslintcache",
+		"icons.svg"
+	],
+	"folder_exclude_patterns":
+	[
+		".tmp",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"dist"
+	],
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"no_italic",
+		"directwrite",
+		"subpixel_antialias"
+	],
+	"font_size": 9,
+	"draw_minimap_border": true,
+	"tree_animation_enabled": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"rulers":
+	[
+		120
+	],
+	"show_errors_inline": false,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme"
+}
